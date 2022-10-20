@@ -1,0 +1,6 @@
+C:\Users\OCABRERA\Desktop\unaj\ListaLigada\ListaLigada\bin\Debug\ListaLigada.exe.config
+C:\Users\OCABRERA\Desktop\unaj\ListaLigada\ListaLigada\bin\Debug\ListaLigada.exe
+C:\Users\OCABRERA\Desktop\unaj\ListaLigada\ListaLigada\bin\Debug\ListaLigada.pdb
+C:\Users\OCABRERA\Desktop\unaj\ListaLigada\ListaLigada\obj\Debug\ListaLigada.csprojResolveAssemblyReference.cache
+C:\Users\OCABRERA\Desktop\unaj\ListaLigada\ListaLigada\obj\Debug\ListaLigada.exe
+C:\Users\OCABRERA\Desktop\unaj\ListaLigada\ListaLigada\obj\Debug\ListaLigada.pdb
